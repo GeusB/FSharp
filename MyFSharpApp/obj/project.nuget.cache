@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ss21Ylyov/IrFf4Baagl5+Rkx0cW2BbD3RaatOALaJa/juFDAHDwHYYcibwoLm7xoYvL7M0XoBuSO7ywEpwo7w==",
+  "success": true,
+  "projectFilePath": "C:\\Repos\\FSharp\\MyFSharpApp\\MyFSharpApp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\geusk\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
